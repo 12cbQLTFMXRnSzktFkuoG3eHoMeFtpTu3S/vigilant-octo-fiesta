@@ -1,0 +1,26 @@
+.top-header {background-color: #ffffff;}
+.top-header .timer-row__progress-bar {background:#202020;}
+.top-header .timer-row {background: #696969;}
+.header__icon__img {
+  display: block;
+  width:360px;  /*===HEADER DIMENSIONS===*/
+  height: 60px;  /*===HEADER DIMENSIONS===*/
+  margin-left:-10px; /*===HEADER POSITION CORRECTION===*/
+  margin-top:-10px;   /*===HEADER POSITION CORRECTION===*/
+  background-color: #fff;
+  border-radius: 5px 5px 0px 0px;}
+
+.close-icon {color:#000;}
+.payment-tabs__slider {background: #202020;     }
+.payment-tabs__tab.active {background: #f5f5f5; font-weight: 400; transition: all .2s ease;border-bottom: #202020 3px solid;}
+.separatorGem {background: #202020;}
+.action-button {color: #fff; background-color: #202020;border-color: #202020;}
+.action-button:hover {background-color: #E0E0E0;}
+.action-button:focus, .action-button.focus {color: #fff;background-color: #202020;
+    border-color: #202020;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: #202020;    border-color: #202020;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: #202020;    border-color: #202020;}
+.btnGroupLnd button {border: solid 1px #202020;}
+.btnGroupLnd button.active {background-color: #202020; border-color: #202020;}
+.btnGroupLnd button:hover {background-color:#E0E0E0;}
+.btnGroupLnd button.active:hover {background-color:#202020;}
